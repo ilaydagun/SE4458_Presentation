@@ -1,6 +1,6 @@
 # AWS S3 + CloudFront Demo
 
-A complete, runnable Python demo for the university assignment.
+A complete, runnable Python demo for the SE4458 assignment.
 
 ## What it demonstrates
 
